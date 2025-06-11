@@ -1,4 +1,4 @@
-# Pore Pressure Proxy Modeling
+# Pressure Prophet : Pore Pressure Proxy Modeling
 
 This repository contains a machine learning project aimed at modeling **pore pressure proxies** using well log facies data. The project uses geological and petrophysical features from the Well Log Facies Dataset to build regression models that predict synthetic pore pressure values derived from well log measurements.
 
